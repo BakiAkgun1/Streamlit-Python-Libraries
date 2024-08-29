@@ -1,6 +1,8 @@
 # Database Analysis with Pandas, Dask, Modin, Vaex, and Polars
 
 This project provides solutions to 15 different database problems using various Python libraries, including Pandas, Dask, Modin, Vaex, and Polars. Each library has its own page where the solutions to the problems are presented. The project also includes a user-friendly interface built with Streamlit, where users can explore and compare the performance of these libraries.
+
+
 ![python](https://github.com/user-attachments/assets/796ca908-b08f-4cb9-9775-62017e9e8959)
 
 ## Table of Contents
@@ -58,7 +60,8 @@ This will launch the main page of the project, where you can explore different d
 
 ## Examples and Screenshots
 ![Screenshot 2024-08-30 001155](https://github.com/user-attachments/assets/c4e170bb-760a-422d-ad15-5cd366a25695)
-![Screenshot 2024-08-30 001155](https://github.com/user-attachments/assets/5078028e-33d6-429d-bda2-7e1ac61cca24)
+![Screenshot 2024-08-30 001228](https://github.com/user-attachments/assets/e462270d-9ae2-4a94-902f-4f063ef42271)
+
 ![Screenshot 2024-08-30 001208](https://github.com/user-attachments/assets/1464a154-0088-4120-9606-195fee467f99)
 
 (Screenshots should be stored in a `screenshots` folder within the project directory.)
