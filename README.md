@@ -68,4 +68,4 @@ This will launch the main page of the project, where you can explore different d
 
 ## About
 
-This project was developed during my internship at Lotus AI. It showcases my skills in Python programming, data analysis, and library optimization, as well as my ability to create user-friendly interfaces for data-driven projects. The data for the analysis was extracted from the `sqlite_sakila.db` database, which provides a rich dataset for performing various data manipulation and analysis tasks.
+This project was developed during my internship at `Lotus AI`. It showcases my skills in Python programming, data analysis, and library optimization, as well as my ability to create user-friendly interfaces for data-driven projects. The data for the analysis was extracted from the `sqlite_sakila.db` database, which provides a rich dataset for performing various data manipulation and analysis tasks.
